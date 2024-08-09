@@ -29,11 +29,11 @@ article_header:
 
 
 <details>
-  <summary style="dspl">Fem servir espases de veritat?</summary>
+  <summary class="dspl">Fem servir espases de veritat?</summary>
   <p style="font-size:1.5em;">No! Les armes amb les que entrenem no es consideren armes blanques. No tallen i no fan mal (a noser que colpegis molt fort!). De fet, estan dissenyades per a no fer mal.</p>
 </details>
 
 <details>
-  <summary style="dspl">aaaaaaaaaaa</summary>
+  <summary class="dspl">aaaaaaaaaaa</summary>
   <p style="font-size:1.5em;">No! Les armes amb les que entrenem no es consideren armes blanques. No tallen i no fan mal (a noser que colpegis molt fort!). De fet, estan dissenyades per a no fer mal.</p>
 </details
