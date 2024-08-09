@@ -44,7 +44,8 @@ inc:
 url:         http://incorporated.sendtoinc.com
 source:      .
 destination: ./_site
-plugins:     ./_plugins
+plugins:
+  - jekyll-assets
 layouts:     ./_layouts
 include:     ['.htaccess']
 exclude:     []
