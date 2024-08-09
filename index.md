@@ -7,8 +7,6 @@ layout: page
 <h1 style="text-align: center;"> Descobreix l'esgrima!</h1>
 <p style="font-size:2em;text-align:center;">Esgrima a Cabrera de Mar! Just davant de l'Ajuntament.</p>
 
-</div>
-
 # FAQ
 <details>
   <summary class="dspl">Fem servir espases de veritat?</summary>
