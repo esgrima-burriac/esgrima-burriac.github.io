@@ -66,6 +66,9 @@ paths:
   home    : # home layout url, "/" (default)
   archive : # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
+  noticies    : /noticies.html
+  horaris     : /horaris.html
+  equip   : /equip.html
 
 
 ## => Post
