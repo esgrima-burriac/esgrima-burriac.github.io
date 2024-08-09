@@ -21,6 +21,8 @@ header:
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
+      ca      : &CA       Inici
+      ca-ES   : *CA
       # @end locale config
     url: /
 
@@ -71,6 +73,8 @@ header:
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
+      ca      : &CA       Horaris i preus
+      ca-ES   : *CA
       # @end locale config
     url: /horaris.html
 
@@ -96,6 +100,8 @@ header:
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
+      ca      : &CA       Equip
+      ca-ES   : *CA
       # @end locale config
     url: /equip.html
 
@@ -121,6 +127,8 @@ header:
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
+      ca      : &CA       Notícies
+      ca-ES   : *CA
       # @end locale config
     url: /noticies.html
 
@@ -146,5 +154,7 @@ header:
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
+      ca      : &CA       Contacte
+      ca-ES   : *CA
       # @end locale config
     url: /contacte.html
