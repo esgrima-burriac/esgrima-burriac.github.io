@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: webpage
 title: Club Esgrima Burriac
 description: Esgrima a Cabrera de Mar!
 key: page-index
