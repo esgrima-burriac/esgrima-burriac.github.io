@@ -157,7 +157,7 @@ header:
       ca      : &CA       FAQ
       ca-ES   : *CA
       # @end locale config
-    url: /faq
+    url: /#faq
 
   - titles:
       # @start locale config
