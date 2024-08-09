@@ -1,4 +1,4 @@
 ---
-layout: webpage
+layout: article
 title: Equip
 ---

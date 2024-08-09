@@ -1,5 +1,5 @@
 ---
-layout: webpage
+layout: article
 title: Club Esgrima Burriac
 description: Esgrima a Cabrera de Mar!
 key: page-index
@@ -15,4 +15,6 @@ article_header:
     src: /assets/classe_esgrima.jpg
 ---
 
-# Descobreix l'esgrima!
+<div style="text-align:center"><img src=assets\images\logo\esgrima_burriac.png></div>
+
+<h1 style="text-align:center">Descobreix l'esgrima!</h1>
