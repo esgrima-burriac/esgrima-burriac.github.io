@@ -18,7 +18,7 @@ article_header:
 ![log](/assets/images/logo/esgrima_burriac.png){:.centered}
 
 <h1 style="text-align: center;"> Descobreix l'esgrima!</h1>
-<p style="font-size:2em;text-align:center;">Esgrima a Cabrera de Mar! Just davant de l'Ajuntament</p>
+<p style="font-size:2em;text-align:center;">Esgrima a Cabrera de Mar! Just davant de l'Ajuntament.</p>
 
 <div style="text-decoration:none; overflow:hidden;max-width:100%;width:500px;height:500px;text-align:center;"><div id="embed-ded-map-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=club+esgrima+burriac&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="embed-ded-maphtml" href="https://www.bootstrapskins.com/themes" id="enable-map-data">premium bootstrap themes</a><style>#embed-ded-map-canvas .text-marker{}.map-generator{max-width: 100%; max-height: 100%; background: none;</style></div>
 
