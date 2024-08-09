@@ -7,7 +7,7 @@ titel: contacte
   <div style="margin-top: 1rem;">
     <h2 style="  font-size: 1.875rem;line-height: 2.25rem;font-weight: 700;">Posa't en contacte</h2>
     <p style="color: rgb(107 114 128);">
-      Fill out the form below and we'll get back to you as soon as possible.
+      Omple aquest formulari i de seguida ens posarem en contacte amb tu!
     </p>
   </div>
 
@@ -35,7 +35,7 @@ titel: contacte
         <textarea style="padding: 0.5rem;border: 1px solid #e5e7eb;display: flex;height: 2.5rem;width: 100%;border-radius: 0.375rem;font-size: 0.875rem;line-height: 1.25rem;" id="message" name="message" placeholder="Escriu aquí"></textarea>
       </div>
     </div>
-    <button style="width: 100%;margin-top: 1.2rem;background-color: #3124ca;color: #fff;padding: 13px 5px;border-radius: 0.375rem;" type="submit">Enviar missatge</button>
+    <button style="width: 100%;margin-top: 1.2rem;background-color: #7cc7bb;color: #fff;padding: 13px 5px;border-radius: 0.375rem;" type="submit">Enviar missatge</button>
   </form>
 
 </section>
