@@ -3,13 +3,10 @@ type: article
 titel: contacte
 ---
 
-Create Access Key here 👉 https://web3forms.com/
- -->
-
-<section class="contact-section">
-  <div class="contact-intro">
-    <h2 class="contact-title">Posa't en contacte</h2>
-    <p class="contact-description">
+<section style="width: 100%; max-width: 40rem;margin-left: auto;margin-right: auto;padding: 3rem 1rem;">
+  <div style="margin-top: 1rem;">
+    <h2 style="  font-size: 1.875rem;line-height: 2.25rem;font-weight: 700;">Posa't en contacte</h2>
+    <p style="color: rgb(107 114 128);">
       Fill out the form below and we'll get back to you as soon as possible.
     </p>
   </div>
@@ -17,29 +14,29 @@ Create Access Key here 👉 https://web3forms.com/
   <form class="contact-form" action="https://api.web3forms.com/submit" method="POST">
 
     <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE" />
-    <input type="hidden" name="subject" value="New Contact Form Submission from Web3Forms" />
-    <input type="hidden" name="from_name" value="My Website" />
+    <input type="hidden" name="subject" value="Nou missatge de la pàgina web" />
+    <input type="hidden" name="from_name" value="Pàgina web" />
     <!-- More custom ization options available in the docs: https://docs.web3forms.com -->
-
-    <div class="form-group-container">
-      <div class="form-group">
-        <label for="name" class="form-label">Name</label>
-        <input id="name" name="name" class="form-input" placeholder="Your name" type="text" />
+      <div style="display: grid; gap: 1rem;margin-top: 2rem;">
+      <div style="display: flex;flex-direction: column;">
+        <label for="name" style="margin-bottom:0.5rem;">Nom i cognoms</label>
+        <input id="name" name="name" style="padding: 0.5rem;border: 1px solid #e5e7eb;display: flex;height: 2.5rem;width: 100%;border-radius: 0.375rem;font-size: 0.875rem;line-height: 1.25rem;" placeholder="Nom Cognom" type="text" />
       </div>
       <div class="form-group">
-        <label for="email" class="form-label">Email</label>
-        <input id="email" name="email" class="form-input" placeholder="Your email" type="email" />
+        <label for="email" class="form-label">Correu electrònic</label>
+        <input id="email" name="email" style="padding: 0.5rem;border: 1px solid #e5e7eb;display: flex;height: 2.5rem;width: 100%;border-radius: 0.375rem;font-size: 0.875rem;line-height: 1.25rem;" placeholder="elteu@correuelectronic.cat" type="email" />
       </div>
       <div class="form-group">
-        <label for="phone" class="form-label">Phone</label>
-        <input id="phone" name="phone" class="form-input" placeholder="+1 (234) 56789" type="text" />
+        <label for="phone" class="form-label">Núm. telèfon</label>
+        <input id="phone" name="phone" style="padding: 0.5rem;border: 1px solid #e5e7eb;display: flex;height: 2.5rem;width: 100%;border-radius: 0.375rem;font-size: 0.875rem;line-height: 1.25rem;" placeholder="+34 654 33 22 11" type="text" />
       </div>
       <div class="form-group">
-        <label for="message" class="form-label">Message</label>
-        <textarea class="form-textarea" id="message" name="message" placeholder="Your message"></textarea>
+        <label for="message" class="form-label">Missatge</label>
+        <textarea style="padding: 0.5rem;border: 1px solid #e5e7eb;display: flex;height: 2.5rem;width: 100%;border-radius: 0.375rem;font-size: 0.875rem;line-height: 1.25rem;" id="message" name="message" placeholder="Escriu aquí"></textarea>
       </div>
     </div>
-    <button class="form-submit" type="submit">Send Message</button>
+    <button style="width: 100%;margin-top: 1.2rem;background-color: #3124ca;color: #fff;padding: 13px 5px;border-radius: 0.375rem;" type="submit">Enviar missatge</button>
   </form>
 
 </section>
+
