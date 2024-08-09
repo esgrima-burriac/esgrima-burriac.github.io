@@ -27,7 +27,7 @@ key: page-home
 article_header:
   type: cover
   image:
-    src: /classe_esgrima.jpg
+    src: /assets/classe_esgrima.jpg
 ---
 
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
