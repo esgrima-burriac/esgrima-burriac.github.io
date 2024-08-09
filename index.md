@@ -16,4 +16,6 @@ article_header:
 ---
 
 ![log](/assets/images/logo/esgrima_burriac.png){:.centered}
-{:refdef: style="text-align: center;"}# Descobreix l'esgrima!{:refdef}
+{:refdef: style="text-align: center;"}
+# Descobreix l'esgrima!
+{:refdef}
