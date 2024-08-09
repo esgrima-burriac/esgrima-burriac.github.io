@@ -14,7 +14,8 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /assets/classe_esgrima.jpg
 ---
-
+{:refdef: style="text-align: center;"}
 ![log](/assets/images/logo/esgrima_burriac.png)
+{: refdef}
 
 <h1 style="text-align:center">Descobreix l'esgrima!</h1>
