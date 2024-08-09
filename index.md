@@ -19,12 +19,13 @@ article_header:
 
 <h1 style="text-align: center;"> Descobreix l'esgrima!</h1>
 <p style="font-size: 2em">L'esgrima és...
-
-- ...l'esport dels cavallers.
-- ...l'esport del respecte.
-- ...l'únic esport olímpic espanyol.
+<ul>
+<li>...l'esport dels cavallers.</li>
+<li>...l'esport del respecte.</li>
+<li>...l'únic esport olímpic espanyol.</li>
+</ul>
 </p>
 
-![gif](https://j.gifs.com/yD2L0G.gif){:.centerd}
+![gif](https://j.gifs.com/yD2L0G.gif){:.centered}
 
 [Saber més](/faq){:.btn}
