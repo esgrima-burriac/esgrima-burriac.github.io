@@ -15,5 +15,5 @@ article_header:
     src: /assets/classe_esgrima.jpg
 ---
 
-![log](/assets/images/logo/esgrima_burriac.png){style="text-align: center;"}
-# Descobreix l'esgrima!{:refdef: style="text-align: center;"}
+![log](/assets/images/logo/esgrima_burriac.png){:style="text-align: center;"}
+# Descobreix l'esgrima!{:style="text-align: center;"}
