@@ -28,13 +28,13 @@ description: > # this means to ignore newlines until "Language & timezone"
 ## => Language and Timezone
 ##############################
 lang: # the language of your site, default as "en"
-timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+timezone: Europe/Andorra # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
 ##############################
 author:
-  type      : # "person" (default), "organization"
+  type      : organization # "person" (default), "organization"
   name      : Club Esgrima Burriac
   url       :
   avatar    : assets\esgrima_burriac.png
@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: esgrima-burriac/esgrima-burriac.github.io
 repository_tree: master
 
 
@@ -63,7 +63,7 @@ repository_tree: master
 ##############################
 paths:
   root    : # title link url, "/" (default)
-  home    : # home layout url, "/" (default)
+  home    : /inici.html # home layout url, "/" (default)
   archive : # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
 
