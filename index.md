@@ -16,6 +16,15 @@ article_header:
 ---
 
 ![log](/assets/images/logo/esgrima_burriac.png){:.centered}
-{:refdef: style="text-align: center;"}
-# Descobreix l'esgrima!
-{:refdef}
+
+<h1 style="text-align: center;"> Descobreix l'esgrima!</h1>
+<p style="font-size: 2em">L'esgrima és...
+
+- ...l'esport dels cavallers.
+- ...l'esport del respecte.
+- ...l'únic esport olímpic espanyol.
+</p>
+
+![gif](https://j.gifs.com/yD2L0G.gif){:.centerd}
+
+[Saber més](/faq){:.btn}

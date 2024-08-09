@@ -76,7 +76,7 @@ header:
       ca      : &CA       Horaris i preus
       ca-ES   : *CA
       # @end locale config
-    url: /horaris.html
+    url: /horaris
 
   - titles:
       # @start locale config
@@ -103,7 +103,7 @@ header:
       ca      : &CA       Equip
       ca-ES   : *CA
       # @end locale config
-    url: /equip.html
+    url: /equip
 
   - titles:
       # @start locale config
@@ -130,7 +130,34 @@ header:
       ca      : &CA       Notícies
       ca-ES   : *CA
       # @end locale config
-    url: /noticies.html
+    url: /noticies
+  
+  - titles:
+      # @start locale config
+      en      : &EN       FAQ
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  关于
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  關於
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       소개
+      ko-KR   : *KO
+      fr      : &FR       À propos
+      fr-BE   : *FR
+      fr-CA   : *FR
+      fr-CH   : *FR
+      fr-FR   : *FR
+      fr-LU   : *FR
+      ca      : &CA       FAQ
+      ca-ES   : *CA
+      # @end locale config
+    url: /faq
 
   - titles:
       # @start locale config
@@ -157,4 +184,4 @@ header:
       ca      : &CA       Contacte
       ca-ES   : *CA
       # @end locale config
-    url: /contacte.html
+    url: /contacte
