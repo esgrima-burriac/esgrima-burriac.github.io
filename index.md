@@ -15,6 +15,6 @@ article_header:
     src: /assets/classe_esgrima.jpg
 ---
 
-<div style="text-align:center"><img src=https://esgrima-burriac.github.io/assets/images/logo/esgrima_burriac.png></div>
+![log](/assets/images/logo/esgrima_burriac.png)
 
 <h1 style="text-align:center">Descobreix l'esgrima!</h1>
