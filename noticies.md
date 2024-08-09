@@ -1,9 +1,9 @@
 ---
-layout: blog
+layout: article
 title: Notícies
 excerpt: Últimes novetats del club
-<!-- articles:
+articles:
   data_source: site.sample_page
   show_excerpt: true
-  show_readmore: true -->
+  show_readmore: true
 ---
