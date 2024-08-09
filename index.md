@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       Home
+  en      : &EN       Club Esgrima Burriac
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -36,6 +36,7 @@ article_header:
     src: /assets/classe_esgrima.jpg
     height: 50%
     width: 100%
+    style: "background-position-y: 20%;"
 ---
 
 # Descobreix l'esgrima!

@@ -37,7 +37,7 @@ author:
   type      : organization # "person" (default), "organization"
   name      : Club Esgrima Burriac
   url       :
-  avatar    : esgrima_burriac.png
+  avatar    : assets\images\logo\logo.svg
   bio       : I am an amazing person.
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
@@ -159,7 +159,7 @@ pageview:
 ## => Search
 ##############################
 search:
-  provider: default # "default" (default), false, "google", "custom"
+  provider: false # "default" (default), false, "google", "custom"
 
   ## Google Custom Search Engine
   google:
