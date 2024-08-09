@@ -144,4 +144,26 @@ fr-FR:
   <<: *FR
 fr-LU:
   <<: *FR
+
+## => Catalan
+########################
+ca: &CA
+  SUBSCRIBE               : "Subscriure's"
+  READMORE                : "Llegir més"
+  SEARCH                  : "Cercar"
+  CANCEL                  : "Cancel·lar"
+  VIEWS                   : "visites"
+  LAST_UPDATED            : "Última actualització"
+  PREVIOUS                : "ANTERIOR"
+  NEXT                    : "SEGÜENT"
+  ARTICLE_DATE_FORMAT     : "%b %d, %Y"
+  ARTICLE_LIST_DATE_FORMAT: "%b %d"
+  STATISTICS              : "[POST_COUNT] articles, [PAGE_COUNT] pàgines."
+  LICENSE_ANNOUNCE        : "This work is licensed under a [LICENSE] license."
+  POST_ON_GITHUB          : "Edit on Github"
+  FOLLOW_ME               : "Follow me on [NAME]."
+  FOLLOW_US               : "Follow us on [NAME]."
+  EMAIL_ME                : "Send me an Email."
+  EMAIL_US                : "Send us an Email."
+  COPYRIGHT_DATES         : "2024"
 # @end locale config
