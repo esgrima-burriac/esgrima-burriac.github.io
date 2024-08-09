@@ -34,9 +34,6 @@ article_header:
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /assets/classe_esgrima.jpg
-    height: 50%
-    width: 100%
-    style: "background-position-y: 20%;"
 ---
 
 # Descobreix l'esgrima!
