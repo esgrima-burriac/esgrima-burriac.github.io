@@ -74,7 +74,7 @@ header:
       # @end locale config
     url: /horaris.html
 
-    - titles:
+  - titles:
       # @start locale config
       en      : &EN       Team
       en-GB   : *EN
