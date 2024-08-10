@@ -59,5 +59,5 @@ title: Descobreix l'esgrima!
 </details>
 
 <div style="text-align:center;margin-top:0.5em;">
-<a class="btn" href="/contacte" style="width:100%;">Encara tens dubtes? Escriu-nos!</a>
+<a class="btn" href="/contacte" style="width:100%;font-size:1.5em;">Encara tens dubtes? Escriu-nos! <i class="fa-solid fa-message"></i></a>
 </div>
