@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Club Esgrima Burriac
 ---
 
 <img src="https://esgrima-burriac.github.io/assets/img/esgrima_burriac.png)" alt="logo" style="pointer-events: none;"/>
@@ -7,12 +8,12 @@ layout: page
 <h1 style="text-align: center;"> Descobreix l'esgrima!</h1>
 <p style="font-size:1.5em;text-align:center;">Esgrima a Cabrera de Mar per a totes les edats.</p>
 
-<div style="text-align:center;">
+<div style="text-align:center;martgin-top:0em;margin-bottom:1em;">
 <a href="/esgrima">Què és l'esgrima?</a>
 </div>
 
-<div style="text-align:center;">
-<a class="btn" href="/#on-som?">Ubicació</a><a class="btn" href="/#horaris" style="margin-left:2em;">Horaris i preus</a><a class="btn" href="/#faq" style="margin-left:2em;">FAQ</a>
+<div style="text-align:center;margin-bottom:2em;">
+<a class="btnm" href="/#on-som?">Ubicació</a><a class="btnm" href="/#horaris" style="margin-left:2em;">Horaris i preus</a><a class="btnm" href="/#faq" style="margin-left:2em;">FAQ</a>
 </div>
 
 
@@ -20,14 +21,14 @@ layout: page
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/wyyJzv6excY?si=Ezjc7Ye6MPQdOUC_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h1 style="text-align: center;" id="on-som?"> On som?</h1>
-<p style="text-align:center;font-size:1.5em;">Av. Pare Jaume Català</p>
-<p style="text-align:center;font-size:1.5em;">08349 Cabrera de Mar</p>
+<p style="text-align:center;font-size:1em;">Av. Pare Jaume Català</p>
+<p style="text-align:center;font-size:1em;margin-top:1em;">08349 Cabrera de Mar</p>
 
 <div style="overflow:hidden;max-width:100%;height:500px;"><div id="embed-ded-map-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Club+Esgrima+Burriac&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><style>#embed-ded-map-canvas img.text-marker{max-width:none!important;background:none!important;}img{max-width:none}</style></div>
 
-# Horaris
+<h1 id=horaris style="text-align:center;">Horaris</h1>
 
-<img src="/assets/img/horaris.png" style="width:100%;" alt="horaris"/>
+<img src="/assets/img/horaris.png" style="width:100%;margin-bottom:0em;" alt="horaris"/>
 
 <p style="font-size:1em;text-align:center;"><a href="/calendari">Veure calendari</a></p>
 
