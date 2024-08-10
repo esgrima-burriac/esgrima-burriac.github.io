@@ -7,7 +7,7 @@ layout: page
 <h1 style="text-align: center;"> Descobreix l'esgrima!</h1>
 <p style="font-size:1.5em;text-align:center;">Esgrima a Cabrera de Mar per a totes les edats.
 
-<a src="/esgrima">Què és l'esgrima?</a></p>
+<a href="/esgrima">Què és l'esgrima?</a></p>
 
 <div style="text-align:center;">
 [Ubicació](#on-som?){:.btnm}   [Horaris i preus](#horaris){:.btnm}   [FAQ](#faq){:.btnm}
@@ -19,7 +19,7 @@ layout: page
 <p style="text-align:center;font-size:1.5em;">Av. Pare Jaume Català\
 08349 Cabrera de Mar</p>
 
-<div style="overflow:hidden;max-width:100%;height:500px;"><div id="embed-ded-map-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Club+Esgrima+Burriac&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="embed-ded-maphtml" href="https://www.bootstrapskins.com/themes" id="auth-map-data">premium bootstrap themes</a><style>#embed-ded-map-canvas img.text-marker{max-width:none!important;background:none!important;}img{max-width:none}</style></div>
+<div style="overflow:hidden;max-width:100%;height:500px;"><div id="embed-ded-map-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Club+Esgrima+Burriac&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><style>#embed-ded-map-canvas img.text-marker{max-width:none!important;background:none!important;}img{max-width:none}</style></div>
 
 # Horaris
 
