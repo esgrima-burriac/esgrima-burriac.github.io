@@ -12,14 +12,14 @@ layout: page
 </div>
 
 <div style="text-align:center;">
-<a class="btnm" href="/#on-som?">Ubicació</a>   [Horaris i preus](#horaris){:.btnm}   <a class="btn" href="/#faq">FAQ</a>
+<a class="btnm" href="/#on-som?">Ubicació</a><a class="btnm" href="/#horaris">Horaris i preus</a><a class="btn" href="/#faq">FAQ</a>
 </div>
 
 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/wyyJzv6excY?si=Ezjc7Ye6MPQdOUC_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<h1 style="text-align: center;" name="on-som?"> On som?</h1>
+<h1 style="text-align: center;" id="on-som?"> On som?</h1>
 <p style="text-align:center;font-size:1.5em;">Av. Pare Jaume Català\
 08349 Cabrera de Mar</p>
 
@@ -32,13 +32,13 @@ layout: page
 <p style="font-size:1em;text-align:center;"><a href="/calendari">Veure calendari</a></p>
 
 <div style="text-align:center;">
-<button style="font-size:2em;background-color: #2c77a1;color: white;padding: 20px;margin: 4px 2px;cursor: pointer;border-radius: 12px;border: none;">25 € menors, 40 € adults</button>
+<button style="font-size:2em;background-color: #2c77a1;color: white;padding: 20px;margin: 4px 2px;border-radius: 12px;border: none;">25 € menors, 40 € adults</button>
 
 
 <p style="font-size:1.5em">2 sessions gratuïtes!</p>
 </div>
 
-<h1 name=faq>FAQ</h1>
+<h1 id=faq>FAQ</h1>
 <details>
   <summary class="dspl" style="font-size:2em;background-color: #2c77a1;color: white;padding: 20px;margin: 4px 2px;cursor: pointer;border-radius: 12px;width:100%;border: none;">Què necessito per fer esgrima?</summary>
   <p style="font-size:1.5em;">Si és la primera vegada que vens, porta roba còmode, nosaltres et deixarem la resta de l'equipació i una arma.</p>
