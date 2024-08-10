@@ -25,6 +25,8 @@ layout: page
 
 ![horaris](/assets/img/horaris.png){width:100%;}
 
+<p style="font-size:0.5em;text-align:center;"><a href="/calendari">Veure calendari</a></p>
+
 <p style="font-size:1.5em;text-align:center;">25 € menors, 40 € adults
 
 2 sessions gratuïtes!<p>
