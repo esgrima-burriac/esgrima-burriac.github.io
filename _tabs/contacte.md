@@ -1,7 +1,7 @@
 ---
 title: contacte
 icon: fas fa-envelope
-order: 6
+order: 4
 ---
 
 <section style="width: 100%; max-width: 40rem;margin-left: auto;margin-right: auto;padding: 3rem 1rem;">
