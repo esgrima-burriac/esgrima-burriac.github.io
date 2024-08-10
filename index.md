@@ -23,7 +23,7 @@ layout: page
 
 # Horaris
 
-<img src="/assets/img/horaris.png" style="width:100%;"/>
+<img src="/assets/img/horaris.png" style="width:100%;" alt="horaris"/>
 
 <p style="font-size:0.5em;text-align:center;"><a href="/calendari">Veure calendari</a></p>
 
