@@ -13,7 +13,7 @@ layout: page
 [Ubicació](#on-som?){:.btnm}   [Horaris i preus](#horaris){:.btnm}   [FAQ](#faq){:.btnm}
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wyyJzv6excY?si=Ezjc7Ye6MPQdOUC_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/wyyJzv6excY?si=Ezjc7Ye6MPQdOUC_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h1 style="text-align: center;" name="on-som?"> On som?</h1>
 <p style="text-align:center;font-size:1.5em;">Av. Pare Jaume Català\
@@ -23,7 +23,7 @@ layout: page
 
 # Horaris
 
-![horaris](/assets/img/horaris.png){width:100%;}
+<img src="/assets/img/horaris.png" style="width:100%;"/>
 
 <p style="font-size:0.5em;text-align:center;"><a href="/calendari">Veure calendari</a></p>
 
@@ -31,7 +31,7 @@ layout: page
 
 2 sessions gratuïtes!<p>
 
-# FAQ
+<h1 name=faq>FAQ</h1>
 <details>
   <summary class="dspl" style="font-size:2em;background-color: #2c77a1;color: white;padding: 20px;margin: 4px 2px;cursor: pointer;border-radius: 12px;width:100%;border: none;">Què necessito per fer esgrima?</summary>
   <p style="font-size:1.5em;">Si és la primera vegada que vens, porta roba còmode, nosaltres et deixarem la resta de l'equipació i una arma.</p>
