@@ -2,7 +2,7 @@
 layout: titleless
 title: Descobreix l'esgrima!
 ---
-<div style="pointer-events: none;">
+<div style="pointer-events: none;text-align:center;">
 <img src="/assets/img/esgrima_burriac.png" alt="logo"/>
 </div>
 
@@ -40,7 +40,7 @@ title: Descobreix l'esgrima!
 <p style="font-size:1.5em">2 sessions gratuïtes!</p>
 </div>
 
-<h1 id=faq style="text-align:center;">FAQ</h1>
+<h1 id=faq style="text-align:center;margin-bottom:1em;">Preguntes freqüents</h1>
 <details>
   <summary class="dspl" style="font-size:1.5em;background-color: #2c77a1;color: white;padding: 20px;margin: 4px 2px;cursor: pointer;border-radius: 12px;width:100%;border: none;">Què necessito per fer esgrima?</summary>
   <p style="font-size:1.5em;">Si és la primera vegada que vens, porta roba còmode, nosaltres et deixarem la resta de l'equipació i una arma.</p>

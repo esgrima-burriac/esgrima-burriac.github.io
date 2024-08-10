@@ -4,9 +4,13 @@ icon: fas fa-envelope
 order: 3
 ---
 
+<i class="fa-solid fa-phone"></i><a href="tel:+34679259402">Truca'ns</a>
+
+<a href="https://wa.me/+34679259402">Escriu-nos per whatsapp</a>
+
 <section style="width: 100%; max-width: 40rem;margin-left: auto;margin-right: auto;padding: 3rem 1rem;">
   <div style="margin-top: 1rem;">
-    <h2 style="  font-size: 1.875rem;line-height: 2.25rem;font-weight: 700;">Posa't en contacte</h2>
+    <h2 style="  font-size: 1.875rem;line-height: 2.25rem;font-weight: 700;">Escriu-nos un correu</h2>
     <p style="color: rgb(107 114 128);">
       Omple aquest formulari i de seguida ens posarem en contacte amb tu!
     </p>
@@ -40,3 +44,4 @@ order: 3
   </form>
 
 </section>
+

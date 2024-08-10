@@ -9,5 +9,5 @@ order: 2
 # Altres enllaços
 
 <div style="">
-<a class="btnm" href="/#on-som?" style="background-color:#fcde02;">Catalunya</a><a class="btnm" href="/#horaris" style="margin-left:2em;" style="background-color:#ad1519;">Espanya</a><a class="btnm" href="/#faq" style="margin-left:2em;" style="background-color:#385af8;">Europa</a><a class="btnm" href="/contacte" style="margin-left:2em;" style="background-color:#182d70;">Internacional</a>
+Calendaris oficials: <a class="btnm" href="/#on-som?" style="background-color:#fcde02;">Catalunya</a><a class="btnm" href="/#horaris" style="margin-left:2em;" style="background-color:#ad1519;">Espanya</a><a class="btnm" href="/#faq" style="margin-left:2em;" style="background-color:#385af8;">Europa</a><a class="btnm" href="/contacte" style="margin-left:2em;" style="background-color:#182d70;">Internacional</a>
 </div>
