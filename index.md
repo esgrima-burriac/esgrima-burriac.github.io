@@ -9,9 +9,10 @@ layout: page
 
 <div style="text-align:center;">
 <a href="/esgrima">Què és l'esgrima?</a>
+</div>
 
-
-<button class="btnm" href="/#on-som?">Ubicació</button>   [Horaris i preus](#horaris){:.btnm}   <button class="btn" href="/#faq">FAQ</button>
+<div style="text-align:center;">
+<a class="btnm" href="/#on-som?">Ubicació</a>   [Horaris i preus](#horaris){:.btnm}   <a class="btn" href="/#faq">FAQ</a>
 </div>
 
 
