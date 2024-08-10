@@ -3,7 +3,7 @@ layout: page
 title: Club Esgrima Burriac
 ---
 
-<img src="https://esgrima-burriac.github.io/assets/img/esgrima_burriac.png)" alt="logo" style="pointer-events: none;"/>
+<img src="/assets/img/esgrima_burriac.png" alt="logo" style="pointer-events: none;"/>
 
 <h1 style="text-align: center;"> Descobreix l'esgrima!</h1>
 <p style="font-size:1.5em;text-align:center;">Esgrima a Cabrera de Mar per a totes les edats.</p>
@@ -33,26 +33,30 @@ title: Club Esgrima Burriac
 <p style="font-size:1em;text-align:center;"><a href="/calendari">Veure calendari</a></p>
 
 <div style="text-align:center;">
-<button style="font-size:2em;background-color: #2c77a1;color: white;padding: 20px;margin: 4px 2px;border-radius: 12px;border: none;pointer-events: none;">25 € menors, 40 € adults</button>
+<button style="font-size:2em;background-color: #00bf63;color: white;padding: 20px;margin: 4px 2px;border-radius: 12px;border: none;pointer-events: none;">25 € menors, 40 € adults</button>
 
 
 <p style="font-size:1.5em">2 sessions gratuïtes!</p>
 </div>
 
-<h1 id=faq>FAQ</h1>
+<div style="text-align:center;">
+<a class="btn" href="/contacte">Més informació 📨</a>
+</div>
+
+<h1 id=faq style="text-align:center;">FAQ</h1>
 <details>
-  <summary class="dspl" style="font-size:2em;background-color: #2c77a1;color: white;padding: 20px;margin: 4px 2px;cursor: pointer;border-radius: 12px;width:100%;border: none;">Què necessito per fer esgrima?</summary>
+  <summary class="dspl" style="font-size:1.5em;background-color: #2c77a1;color: white;padding: 20px;margin: 4px 2px;cursor: pointer;border-radius: 12px;width:100%;border: none;">Què necessito per fer esgrima?</summary>
   <p style="font-size:1.5em;">Si és la primera vegada que vens, porta roba còmode, nosaltres et deixarem la resta de l'equipació i una arma.</p>
 </details>
 
 <details>
-  <summary style="font-size:2em;background-color: #2c77a1;color: white;padding: 20px;margin: 4px 2px;cursor: pointer;border-radius: 12px;width:100%;border: none;">Fem servir espases de veritat?</summary>
+  <summary style="font-size:1.5em;background-color: #2c77a1;color: white;padding: 20px;margin: 4px 2px;cursor: pointer;border-radius: 12px;width:100%;border: none;">Fem servir espases de veritat?</summary>
 
   <p style="font-size:1.5em;">No! Les armes amb les que entrenem no es consideren armes blanques. No tallen i no fan mal (a no ser que colpegis molt fort!). De fet, estan dissenyades per a no fer mal.</p>
 </details>
 
 <details>
-  <summary style="font-size:2em;background-color: #2c77a1;color: white;padding: 20px;margin: 4px 2px;cursor: pointer;border-radius: 12px;width:100%;border: none;">L'equipació és molt cara?</summary>
+  <summary style="font-size:1.5em;background-color: #2c77a1;color: white;padding: 20px;margin: 4px 2px;cursor: pointer;border-radius: 12px;width:100%;border: none;">L'equipació és molt cara?</summary>
 
   <p style="font-size:1.5em;">No! L'equipació per a iniciació no és cara, si veus que t'agrada l'esport ja compraràs millor equip més endavant! A més, no l'has de canviar cada any i és molt duradera.</p>
 </details>
