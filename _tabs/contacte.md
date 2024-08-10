@@ -3,10 +3,11 @@ title: Contacte
 icon: fas fa-envelope
 order: 3
 ---
+<div style="text-align:center;">
+<div class="btn" style="width:50%;"><i class="fa-solid fa-phone"></i> <a href="tel:+34679259402">Truca'ns</a></div>
 
-<i class="fa-solid fa-phone"></i><a href="tel:+34679259402">Truca'ns</a>
-
-<a href="https://wa.me/+34679259402">Escriu-nos per whatsapp</a>
+<div class="btn" style="background-color:#25d366;width:50%;"><i class="fa-solid fa-whatsapp"></i> <a href="https://wa.me/+34679259402">Escriu-nos per whatsapp</a></div>
+</div>
 
 <section style="width: 100%; max-width: 40rem;margin-left: auto;margin-right: auto;padding: 3rem 1rem;">
   <div style="margin-top: 1rem;">
