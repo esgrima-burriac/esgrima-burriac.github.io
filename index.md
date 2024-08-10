@@ -8,10 +8,13 @@ title: Esgrima a Cabrera de Mar!
 <h1 style="text-align: center;"> Descobreix l'esgrima!</h1>
 <p style="font-size:1.5em;text-align:center;">Esgrima a Cabrera de Mar! Just davant de l'Ajuntament.</p>
 
-# On som?
-Av. Pare Jaume Català
+[Ubicació](#on-som?){:.btn}   [FAQ](#faq){:.btn}
 
-08349 Cabrera de Mar
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wyyJzv6excY?si=Ezjc7Ye6MPQdOUC_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h1 style="text-align: center;"> On som?</h1>
+<p style="text-align:center;font-size:1.5em;">Av. Pare Jaume Català</br>
+08349 Cabrera de Mar</p>
 
 <div style="overflow:hidden;max-width:100%;height:500px;"><div id="embed-ded-map-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Club+Esgrima+Burriac&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="embed-ded-maphtml" href="https://www.bootstrapskins.com/themes" id="auth-map-data">premium bootstrap themes</a><style>#embed-ded-map-canvas img.text-marker{max-width:none!important;background:none!important;}img{max-width:none}</style></div>
 
