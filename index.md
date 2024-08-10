@@ -1,31 +1,48 @@
 ---
 layout: page
-title: Esgrima a Cabrera de Mar!
 ---
 
 ![logo](/assets/img/esgrima_burriac.png)
 
 <h1 style="text-align: center;"> Descobreix l'esgrima!</h1>
-<p style="font-size:1.5em;text-align:center;">Esgrima a Cabrera de Mar! Just davant de l'Ajuntament.</p>
+<p style="font-size:1.5em;text-align:center;">Esgrima a Cabrera de Mar per a totes les edats.
 
-[Ubicació](#on-som?){:.btn}   [FAQ](#faq){:.btn}
+<a src="/esgrima">Què és l'esgrima?</a></p>
+
+<div style="text-align:center;">
+[Ubicació](#on-som?){:.btnm}   [Horaris i preus](#horaris){:.btnm}   [FAQ](#faq){:.btnm}
+</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wyyJzv6excY?si=Ezjc7Ye6MPQdOUC_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h1 style="text-align: center;" name="on-som?"> On som?</h1>
-<p style="text-align:center;font-size:1.5em;">Av. Pare Jaume Català</br>
+<p style="text-align:center;font-size:1.5em;">Av. Pare Jaume Català\
 08349 Cabrera de Mar</p>
 
 <div style="overflow:hidden;max-width:100%;height:500px;"><div id="embed-ded-map-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Club+Esgrima+Burriac&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="embed-ded-maphtml" href="https://www.bootstrapskins.com/themes" id="auth-map-data">premium bootstrap themes</a><style>#embed-ded-map-canvas img.text-marker{max-width:none!important;background:none!important;}img{max-width:none}</style></div>
 
+# Horaris
+
+![horaris](/assets/img/horaris.png){width:100%;}
+
+<p style="font-size:1.5em;text-align:center;">25 € menors, 40 € adults
+
+2 sessions gratuïtes!<p>
+
 # FAQ
 <details>
-  <summary style="font-size:2em;background-color: #2c77a1;color: white;padding: 20px;margin: 4px 2px;cursor: pointer;border-radius: 12px;width:100%;border: none;">Fem servir espases de veritat?</summary>
-
-  <p style="font-size:1.5em;">No! Les armes amb les que entrenem no es consideren armes blanques. No tallen i no fan mal (a noser que colpegis molt fort!). De fet, estan dissenyades per a no fer mal.</p>
+  <summary class="dspl" style="font-size:2em;background-color: #2c77a1;color: white;padding: 20px;margin: 4px 2px;cursor: pointer;border-radius: 12px;width:100%;border: none;">Què necessito per fer esgrima?</summary>
+  <p style="font-size:1.5em;">Si és la primera vegada que vens, porta roba còmode, nosaltres et deixarem la resta de l'equipació i una arma.</p>
 </details>
 
 <details>
-  <summary class="dspl" style="font-size:2em;background-color: #2c77a1;color: white;padding: 20px;margin: 4px 2px;cursor: pointer;border-radius: 12px;width:100%;border: none;">aaaaaaaaaaa</summary>
-  <p style="font-size:1.5em;">No! Les armes amb les que entrenem no es consideren armes blanques. No tallen i no fan mal (a noser que colpegis molt fort!). De fet, estan dissenyades per a no fer mal.</p>
-</details
+  <summary style="font-size:2em;background-color: #2c77a1;color: white;padding: 20px;margin: 4px 2px;cursor: pointer;border-radius: 12px;width:100%;border: none;">Fem servir espases de veritat?</summary>
+
+  <p style="font-size:1.5em;">No! Les armes amb les que entrenem no es consideren armes blanques. No tallen i no fan mal (a no ser que colpegis molt fort!). De fet, estan dissenyades per a no fer mal.</p>
+</details>
+
+<details>
+  <summary style="font-size:2em;background-color: #2c77a1;color: white;padding: 20px;margin: 4px 2px;cursor: pointer;border-radius: 12px;width:100%;border: none;">L'equipació és molt cara?</summary>
+
+  <p style="font-size:1.5em;">No! L'equipació per a iniciació no és cara, si veus que t'agrada l'esport ja compraràs millor equip més endavant! A més, no l'has de canviar cada any i és molt duradera.</p>
+</details>
