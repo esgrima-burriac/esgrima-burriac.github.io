@@ -226,8 +226,8 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-paginate_path: "/noticies/:num/"
+paginate_path: "/novetats/:num/"
 
 plugins:
-  -  jekyll-paginate
+  - jekyll-paginate
   - jekyll-redirect-from
