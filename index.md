@@ -5,12 +5,13 @@ layout: page
 ![logo](/assets/img/esgrima_burriac.png)
 
 <h1 style="text-align: center;"> Descobreix l'esgrima!</h1>
-<p style="font-size:1.5em;text-align:center;">Esgrima a Cabrera de Mar per a totes les edats.
-
-<a href="/esgrima">Què és l'esgrima?</a></p>
+<p style="font-size:1.5em;text-align:center;">Esgrima a Cabrera de Mar per a totes les edats.</p>
 
 <div style="text-align:center;">
-[Ubicació](#on-som?){:.btnm}   [Horaris i preus](#horaris){:.btnm}   [FAQ](#faq){:.btn}
+<a href="/esgrima">Què és l'esgrima?</a>
+
+
+<button class="btnm" href="/#on-som?">Ubicació</button>   [Horaris i preus](#horaris){:.btnm}   <button class="btn" href="/#faq">FAQ</button>
 </div>
 
 
@@ -27,11 +28,14 @@ layout: page
 
 <img src="/assets/img/horaris.png" style="width:100%;" alt="horaris"/>
 
-<p style="font-size:0.5em;text-align:center;"><a href="/calendari">Veure calendari</a></p>
+<p style="font-size:1em;text-align:center;"><a href="/calendari">Veure calendari</a></p>
 
-<p style="font-size:1.5em;text-align:center;">25 € menors, 40 € adults
+<div style="text-align:center;">
+<button style="font-size:2em;background-color: #2c77a1;color: white;padding: 20px;margin: 4px 2px;cursor: pointer;border-radius: 12px;border: none;">25 € menors, 40 € adults</button>
 
-2 sessions gratuïtes!<p>
+
+<p style="font-size:1.5em">2 sessions gratuïtes!</p>
+</div>
 
 <h1 name=faq>FAQ</h1>
 <details>
