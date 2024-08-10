@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="/assets/img/esgrima_burriac.png)" alt="logo" style="pointer-events: none;"/>
+<img src="https://esgrima-burriac.github.io/assets/img/esgrima_burriac.png)" alt="logo" style="pointer-events: none;"/>
 
 <h1 style="text-align: center;"> Descobreix l'esgrima!</h1>
 <p style="font-size:1.5em;text-align:center;">Esgrima a Cabrera de Mar per a totes les edats.</p>
