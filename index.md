@@ -9,7 +9,7 @@ layout: page
 
 # On som?
 
-<img style="float: left;" src="https://esgrima-burriac.github.io/assets/img/envelat.jpg" width="25%">Av. Pare Jaume Català</br>
+<img style="float: left;" src="https://esgrima-burriac.github.io/assets/img/envelat.jpg" width="35%" alt="envelat"  style="vertical-align:middle;margin-right:2em">Av. Pare Jaume Català</br>
 08349 Cabrera de Mar
 
 <div style="overflow:hidden;max-width:100%;width:100px;height:500px;"><div id="embed-ded-map-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Club+Esgrima+Burriac&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="embed-ded-maphtml" href="https://www.bootstrapskins.com/themes" id="auth-map-data">premium bootstrap themes</a><style>#embed-ded-map-canvas img.text-marker{max-width:none!important;background:none!important;}img{max-width:none}</style></div>
