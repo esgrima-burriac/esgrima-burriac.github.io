@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-title: L'esgrima
+title: Esgrima
 icon: fas fa-medal
 order: 4
 ---

@@ -1,19 +1,19 @@
 ---
-layout: page
-title: Club Esgrima Burriac
+layout: titleless
+title: Descobreix l'esgrima!
 ---
 
 <img src="/assets/img/esgrima_burriac.png" alt="logo" style="pointer-events: none;"/>
 
-<h1 style="text-align: center;"> Descobreix l'esgrima!</h1>
+<h1 style="text-align: center;"></h1>
 <p style="font-size:1.5em;text-align:center;">Esgrima a Cabrera de Mar per a totes les edats.</p>
 
 <div style="text-align:center;martgin-top:0em;margin-bottom:1em;">
 <a href="/esgrima">Què és l'esgrima?</a>
 </div>
 
-<div style="text-align:center;margin-bottom:2em;">
-<a class="btnm" href="/#on-som?">Ubicació</a><a class="btnm" href="/#horaris" style="margin-left:2em;">Horaris i preus</a><a class="btnm" href="/#faq" style="margin-left:2em;">FAQ</a>
+<div style="text-align:center;margin-top:2.5em;margin-bottom:2em;">
+<a class="btnm" href="/#on-som?">Ubicació</a><a class="btnm" href="/#horaris" style="margin-left:2em;">Horaris i preus</a><a class="btnm" href="/#faq" style="margin-left:2em;">FAQ</a><a class="btnm" href="/contacte" style="margin-left:2em;">Contacte</a>
 </div>
 
 
@@ -33,7 +33,7 @@ title: Club Esgrima Burriac
 <p style="font-size:1em;text-align:center;"><a href="/calendari">Veure calendari</a></p>
 
 <div style="text-align:center;">
-<button style="font-size:2em;background-color: #00bf63;color: white;padding: 20px;margin: 4px 2px;border-radius: 12px;border: none;pointer-events: none;">25 € menors, 40 € adults</button>
+<button style="font-size:1.5em;background-color: #00bf63;color: white;padding: 20px;margin: 4px 2px;border-radius: 12px;border: none;pointer-events: none;">25 € menors, 40 € adults</button>
 
 
 <p style="font-size:1.5em">2 sessions gratuïtes!</p>
