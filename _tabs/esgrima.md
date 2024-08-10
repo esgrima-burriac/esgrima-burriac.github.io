@@ -1,8 +1,8 @@
 ---
 # the default layout is 'page'
-title: El club
-icon: fas fa-info-circle
-order: 1
+title: L'esgrima
+icon: fas fa-sword
+order: 4
 ---
 
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
