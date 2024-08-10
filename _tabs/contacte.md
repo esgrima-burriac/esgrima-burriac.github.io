@@ -1,5 +1,5 @@
 ---
-title: contacte
+title: Contacte
 icon: fas fa-envelope
 order: 3
 ---

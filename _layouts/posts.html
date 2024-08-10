@@ -1,9 +1,11 @@
 ---
-layout: default
-
+layout: page
 ---
 
 {% include lang.html %}
+
+{% assign HEAD_PREFIX = 'h_' %}
+{% assign LIST_PREFIX = 'l_' %}
 
 {% assign pinned = site.posts | where: 'pin', 'true' %}
 {% assign default = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
