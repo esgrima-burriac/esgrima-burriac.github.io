@@ -226,5 +226,7 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
+paginate_path: "/noticies/:num/"
+
 plugins:
   -  jekyll-paginate
