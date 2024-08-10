@@ -2,8 +2,9 @@
 layout: titleless
 title: Descobreix l'esgrima!
 ---
-
-<img src="/assets/img/esgrima_burriac.png" alt="logo" style="pointer-events: none;"/>
+<div style="pointer-events: none;">
+<img src="/assets/img/esgrima_burriac.png" alt="logo"/>
+</div>
 
 <h1 style="text-align: center;"></h1>
 <p style="font-size:1.5em;text-align:center;">Esgrima a Cabrera de Mar per a totes les edats.</p>
@@ -39,10 +40,6 @@ title: Descobreix l'esgrima!
 <p style="font-size:1.5em">2 sessions gratuïtes!</p>
 </div>
 
-<div style="text-align:center;">
-<a class="btn" href="/contacte">Més informació 📨</a>
-</div>
-
 <h1 id=faq style="text-align:center;">FAQ</h1>
 <details>
   <summary class="dspl" style="font-size:1.5em;background-color: #2c77a1;color: white;padding: 20px;margin: 4px 2px;cursor: pointer;border-radius: 12px;width:100%;border: none;">Què necessito per fer esgrima?</summary>
@@ -60,3 +57,7 @@ title: Descobreix l'esgrima!
 
   <p style="font-size:1.5em;">No! L'equipació per a iniciació no és cara, si veus que t'agrada l'esport ja compraràs millor equip més endavant! A més, no l'has de canviar cada any i és molt duradera.</p>
 </details>
+
+<div style="text-align:center;margin-top:0.5em;">
+<a class="btn" href="/contacte" style="width:100%;">Encara tens dubtes? Escriu-nos!</a>
+</div>
