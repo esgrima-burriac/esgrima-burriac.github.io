@@ -8,6 +8,14 @@ order: 3
 
 # Altres enllaços
 
+## Històrica
+
 <div style="">
-Calendaris oficials: <a class="btnm" href="/#on-som?" style="background-color:#fcde02;color:black;">Catalunya</a><a class="btnm" href="/#horaris" style="margin-left:2em;" style="background-color:#ad1519;">Espanya</a><a class="btnm" href="/#faq" style="margin-left:2em;" style="background-color:#385af8;">Europa</a><a class="btnm" href="/contacte" style="margin-left:2em;" style="background-color:#182d70;">Internacional</a>
+<a class="botom" href="[/contacte](https://hemaratings.com/events/)" style="margin-left:2em;" style="background-color:black;">HEMA Raitings</a><a class="botom" href="https://www.ffamhe.fr/calendrier-ffamhe/" style="margin-left:2em;" style="background-color:#254a98;">França</a>
+</div>
+
+## Esportiva
+
+<div style="">
+Calendaris oficials: <a class="botom" href="https://app.skermo.org/calendar/public/FCE" style="background-color:#fcde02;color:black;">Catalunya</a><a class="botom" href="https://app.skermo.org/calendar/public/rfee?setLang=es" style="margin-left:2em;" style="background-color:#ad1519;">Espanya</a><a class="botom" href="https://www.eurofencing.info/competitions/upcoming-tournaments" style="margin-left:2em;" style="background-color:#385af8;">Europa</a><a class="botom" href="https://fie.org/competitions" style="margin-left:2em;" style="background-color:#182d70;">Internacional</a>
 </div>
