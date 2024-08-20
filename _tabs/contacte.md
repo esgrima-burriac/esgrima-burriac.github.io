@@ -4,9 +4,9 @@ icon: fas fa-envelope
 order: 5
 ---
 <div style="text-align:center;">
-<a class="btn" style="width:50%;font-size:1.5em;" href="tel:+34679259402"><i class="fa-solid fa-phone"></i>⠀Truca'ns</a>
+<a class="boto" style="width:50%;font-size:1.5em;" href="tel:+34679259402"><i class="fa-solid fa-phone"></i>⠀Truca'ns</a>
 
-<a class="btn" style="background-color:#25d366;width:50%;font-size:2em;" href="https://wa.me/+34679259402"><i class="fa-brands fa-whatsapp"></i>⠀Escriu-nos per whatsapp</a>
+<a class="boto" style="background-color:#25d366;width:50%;font-size:2em;" href="https://wa.me/+34679259402"><i class="fa-brands fa-whatsapp"></i>⠀Escriu-nos per whatsapp</a>
 </div>
 
 <section style="width: 100%; max-width: 40rem;margin-left: auto;margin-right: auto;padding: 3rem 1rem;">
