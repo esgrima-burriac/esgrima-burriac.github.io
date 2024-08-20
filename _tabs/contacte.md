@@ -6,7 +6,7 @@ order: 5
 <div style="text-align:center;">
 <a class="btn" style="width:50%;font-size:1.5em;" href="tel:+34679259402"><i class="fa-solid fa-phone"></i>⠀Truca'ns</a>
 
-<a class="btn" style="background-color:#25d366;width:50%;font-size:1.5em;" href="https://wa.me/+34679259402"><i class="fa-brands fa-whatsapp"></i>⠀Escriu-nos per whatsapp</a>
+<a class="btn" style="background-color:#25d366;width:50%;font-size:2em;" href="https://wa.me/+34679259402"><i class="fa-brands fa-whatsapp"></i>⠀Escriu-nos per whatsapp</a>
 </div>
 
 <section style="width: 100%; max-width: 40rem;margin-left: auto;margin-right: auto;padding: 3rem 1rem;">
@@ -41,7 +41,7 @@ order: 5
         <textarea style="padding: 0.5rem;border: 1px solid #e5e7eb;display: flex;height: 2.5rem;width: 100%;border-radius: 0.375rem;font-size: 0.875rem;line-height: 1.25rem;" id="message" name="message" placeholder="Escriu aquí"></textarea>
       </div>
     </div>
-    <button style="width: 100%;margin-top: 1.2rem;background-color: #7cc7bb;color: #fff;padding: 13px 5px;border-radius: 0.375rem;" type="submit">Enviar missatge</button>
+    <button style="width: 100%;margin-top: 1.2rem;background-color: #2c77a1;color: #fff;padding: 13px 5px;border-radius: 0.375rem;" type="submit">Enviar missatge</button>
   </form>
 
 </section>
