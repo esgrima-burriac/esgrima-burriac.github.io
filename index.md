@@ -22,10 +22,13 @@ title: Descobreix l'esgrima!
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/wyyJzv6excY?si=Ezjc7Ye6MPQdOUC_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h1 style="text-align: center;" id="on-som?"> On som?</h1>
-<p style="text-align:center;font-size:1.3m;">Av. Pare Jaume Català</p>
-<p style="text-align:center;font-size:1.3em;margin-top:0em;">08349 Cabrera de Mar</p>
 
-<div style="overflow:hidden;max-width:100%;height:500px;"><div id="embed-ded-map-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Club+Esgrima+Burriac&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><style>#embed-ded-map-canvas img.text-marker{max-width:none!important;background:none!important;}img{max-width:none}</style></div>
+<details>
+  <summary class="dspl" style="font-size:1.5em;background-color: #2c77a1;color: white;padding: 20px;margin: 4px 2px;cursor: pointer;border-radius: 12px;width:100%;border: none;">Classes adults</summary>
+  <p style="text-align:center;font-size:1.3m;margin-bottom:0.5em;">Av. Pare Jaume Català</p>
+  <p style="text-align:center;font-size:1.3em;margin-top:0em;">08349 Cabrera de Mar</p>
+  <div style="overflow:hidden;max-width:100%;height:500px;"><div id="embed-ded-map-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Club+Esgrima+Burriac&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><style>#embed-ded-map-canvas img.text-marker{max-width:none!important;background:none!important;}img{max-width:none}</style></div>
+</details>
 
 <h1 id=horaris style="text-align:center;">Horaris</h1>
 
