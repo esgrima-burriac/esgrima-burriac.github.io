@@ -184,6 +184,7 @@ defaults:
       path: _drafts
     values:
       comments: false
+      sitemap: false
   - scope:
       path: ""
       type: tabs # see `site.collections`
@@ -194,6 +195,10 @@ defaults:
       path: assets/js/dist
     values:
       swcache: true
+  - scope:
+      path: "assets/**/*.*"
+    values:
+      sitemap: false
 
 sass:
   style: compressed
