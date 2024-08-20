@@ -7,9 +7,9 @@ img.centered {
   margin-right: auto;
 }
 
-.btn,
-.btn:link
-.btn:visited {
+.boto,
+.boto:link
+.boto:visited {
   background-color: #2c77a1;
   border: none;
   color: white;
@@ -22,7 +22,7 @@ img.centered {
   cursor: pointer;
   border-radius: 12px;
 }
-.btn:hover {
+.boto:hover {
   background-color: #205370;
   color: rgb(180, 180, 180);  
 }
@@ -42,13 +42,13 @@ summary.dspl:hover {
   color: rgb(180, 180, 180);  
 }
 
-.btnm,
-.btnm:link
-.btnm:visited {
+.botom,
+.botom:link
+.botom:visited {
   background-color: #2c77a1;
   border: none;
   color: white;
-  padding: 10px;
+  padding: 0.5em 0.5em;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -57,7 +57,7 @@ summary.dspl:hover {
   cursor: pointer;
   border-radius: 12px;
 }
-.btnm:hover {
+.botom:hover {
   background-color: #205370;
   color: rgb(180, 180, 180);  
 }
