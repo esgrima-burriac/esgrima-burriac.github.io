@@ -11,7 +11,7 @@ order: 3
 ## Històrica
 
 <div style="">
-<a class="botom" href="[/contacte](https://hemaratings.com/events/)" style="margin-left:2em;" style="background-color:black;">HEMA Raitings</a><a class="botom" href="https://www.ffamhe.fr/calendrier-ffamhe/" style="margin-left:2em;" style="background-color:#254a98;">França</a>
+<a class="botom" href="https://hemaratings.com/events/" style="margin-left:2em;" style="background-color:black;">HEMA Raitings</a><a class="botom" href="https://www.ffamhe.fr/calendrier-ffamhe/" style="margin-left:2em;" style="background-color:#254a98;">França</a>
 </div>
 
 ## Esportiva
